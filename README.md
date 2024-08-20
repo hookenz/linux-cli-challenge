@@ -9,7 +9,9 @@ Reimplement it in the language of your choosing.
 Rules
 ---
 This should not be a port and should not use automated tooling.  Do not read the source code and simply translate or port the code into a new language.  
-Actually look at the program behavior, the man page and the documentation and implement it from scratch
+Actually look at the program behavior, the man page and the documentation and implement it from scratch.
+
+Extra points for portability (Windows included).
 
 Why?
 ---
