@@ -21,6 +21,7 @@ The best way to learn is by doing and making lots of mistakes in implementation 
 
 ## Suggested Tools
 - adduser
+- addgroup
 - df
 - dig
 - free
