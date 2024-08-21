@@ -25,7 +25,7 @@ The best way to learn is by doing and making lots of mistakes a long the way.
 - df
 - free
 - ssh
-- [make](/hookenz/linux-cli-challenge/make)
+- [make](https://github.com/hookenz/linux-cli-challenge/make)
 - dig
 - sh
 - etc
