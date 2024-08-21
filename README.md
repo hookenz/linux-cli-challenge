@@ -26,6 +26,7 @@ The best way to learn is by doing and making lots of mistakes in implementation 
 - dig
 - free
 - find
+- grep
 - lsof
 - [make](https://github.com/hookenz/linux-cli-challenge/tree/main/make)
 - passwd
