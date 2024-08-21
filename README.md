@@ -19,7 +19,7 @@ Extra points for portability (Windows included).
 Learning should be challenging and fun. Unfortunately, most projects do not produce anything useful or simply aren't challenging enough.
 The best way to learn is by doing and making lots of mistakes a long the way.
 
-## Suggestions
+## Tools
 
 - find
 - df
