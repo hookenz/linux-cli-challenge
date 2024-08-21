@@ -16,12 +16,18 @@ Are you ready for a challenging learning project?
 
 ## Why?
 
-Learning should be challenging and fun. Unfortunately, most projects do not produce anything useful or simply aren't challenging enough.
-The best way to learn is by doing and making lots of mistakes in implementation a long the way.  I gaurantee that by the time you've written a tool you'll be an expert in it.  You will also have something to showcase some of your skills.
+Learning should be challenging and fun. Unfortunately, most projects do not produce anything useful or simply aren't challenging enough.  Or they are unrealistic programming problems that are poorly described.  The best way to learn is by doing (and making lots of mistakes along the way). 
+Most importantly, because it's based off something else it will test your ability implement something to a spec or description.
+You will also have something to showcase some of your skills.
+
+I gaurantee that by the time you've written a tool you'll be an expert in it.
+
+## Suggested Tools
+
+These are some ideas.   Some look easy, I suspect they aren't as easy as they look.  Feel free to PR to this repository your suggestions and if you've taken on the challenge and have something to share.
 
 Happy Coding!
 
-## Suggested Tools
 - adduser
 - addgroup
 - df
