@@ -1,4 +1,4 @@
-# A list of challenge Make tools
+# A list of Challenge Make tools
 
 ## Golang
 
