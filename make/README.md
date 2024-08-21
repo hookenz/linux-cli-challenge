@@ -2,4 +2,4 @@
 
 ## Golang
 
-[hmake](https://github.com/hookenz/hmake): golang make clone with eventual superpowers?
+[hmake](https://github.com/hookenz/hmake): hmake - A "make" clone written in pure go
