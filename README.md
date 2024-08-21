@@ -17,7 +17,9 @@ Are you ready for a challenging learning project?
 ## Why?
 
 Learning should be challenging and fun. Unfortunately, most projects do not produce anything useful or simply aren't challenging enough.
-The best way to learn is by doing and making lots of mistakes in implementation a long the way.  I gaurantee that by the time you've written a tool you'll be an expert in it.
+The best way to learn is by doing and making lots of mistakes in implementation a long the way.  I gaurantee that by the time you've written a tool you'll be an expert in it.  You will also have something to showcase some of your skills.
+
+Happy Coding!
 
 ## Suggested Tools
 - adduser
